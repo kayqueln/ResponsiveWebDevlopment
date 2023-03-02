@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Exercício 2 de RWD.
+=======
+Exercício 2 de RWD.
+>>>>>>> branchExercicio
